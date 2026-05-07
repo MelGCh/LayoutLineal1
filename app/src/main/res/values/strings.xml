@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutLineal</string>
+    <string name="tvwGreeting_text">Bienvenid@</string>
+    <string name="btnUpdate_text">Actualizar</string>
+    <string name="ettName_text">Nombre</string>
+    <string name="ettNumber_text">Número</string>
+</resources>
